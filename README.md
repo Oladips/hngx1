@@ -1,16 +1,9 @@
 # hng_stage_1
 
-A new Flutter project.
+A simple Flutter project used for the stage one test of HNG X mobile test.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup instructions
+No special setup needed
+1. Fork the repo
+2. Run flutter pub get to get the package used (webview_flutter)
+3. Run the app.
